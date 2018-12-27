@@ -1,10 +1,9 @@
 import java.io.IOException
 import java.util._
+
 import org.apache.hadoop.fs.Path
-import org.apache.hadoop.conf._
 import org.apache.hadoop.io._
 import org.apache.hadoop.mapred._
-import org.apache.hadoop.util._
 
 object WordCount {
 
